@@ -5,10 +5,9 @@ echo
 echo 
 echo "Created By:"
 echo "-----------------------"
-echo "Bilawal Ali,22BSCYS002 "
-echo "Madiha Sehar,22BSCYS022" 
+echo "Bilawal Ali "
 echo
-echo "Example: muet.edu.pk"
+echo "Example: example.com"
 
 read  -p "Enter URL:  " url
 
